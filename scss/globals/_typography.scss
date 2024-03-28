@@ -1,0 +1,7 @@
+* {
+    font-family: "Roboto Flex", sans-serif;
+}
+*::selection {
+    background-color: var(--text-color);
+    color: var(--background-color);
+}
